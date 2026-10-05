@@ -31,7 +31,7 @@ Software Engineer @ thought clan
 
 ## 🚀 About me
 
-I'm a software Engineer and automating infrastructure,
+I'm a software Engineer worked in Data Analytics and switch into Devops for automating infrastructure,
 building robust CI/CD pipelines, and Learning DevOps concepts too .
 I covering everything from Linux fundamentals to Kubernetes
 and AWS cloud architecture.
@@ -39,6 +39,10 @@ and AWS cloud architecture.
 ---
 
 ## 🛠️ Tech stack
+
+**Data Analytics**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=flat&logo=powerapps&logoColor=white)
 
 **Cloud & Infrastructure**
 ![AWS EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
